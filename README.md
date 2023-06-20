@@ -1,5 +1,6 @@
 # Toxic-Comment-Classification
 Toxic Comment Classification using standard ML and LSTM
+
 Developing a predictive model to determine the probability of different types of toxicity (toxic, severe_toxic, obscene, threat, insult, identity_hate) in a large dataset of Wikipedia comments, labeled by human raters.
 
 ### Data source:
